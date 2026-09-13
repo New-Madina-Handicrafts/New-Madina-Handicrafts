@@ -1,0 +1,9 @@
+# robots.txt — New Madina Handicrafts
+# https://newmadinahandicrafts.pages.dev
+
+User-agent: *
+Allow: /
+Disallow: /node_modules/
+
+# Sitemap
+Sitemap: https://newmadinahandicrafts.pages.dev/sitemap.xml

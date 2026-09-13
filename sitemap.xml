@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://newmadinahandicrafts.pages.dev/</loc>
+    <lastmod>2025-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://newmadinahandicrafts.pages.dev/images/Hero/1.webp</image:loc>
+      <image:title>New Madina Handicrafts — Handmade Shawls from Islampur Swat</image:title>
+    </image:image>
+  </url>
+
+</urlset>
